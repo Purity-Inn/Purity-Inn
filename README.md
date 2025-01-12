@@ -23,7 +23,7 @@ A brief description of what this project does and its main features.
 
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [innkeshry@gmail.com](mailto:innkeshry@gmail.com)
 - **LinkedIn:** [Purity-Inn](https://www.linkedin.com/in/your-linkedin-profile)
 - **Twitter:** [@PurityInn](https://twitter.com/your-twitter-handle)
 
