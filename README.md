@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📁 Projects
 
-### [Class-group-project1](https://github.com/Purity-Inn/project-name-1)
+### [Class-group-project1](https://github.com/Purity-Inn/Class-group-project1)
 A brief description of what this project does and its main features.
 
 ### [Project Name 2](https://github.com/Purity-Inn/project-name-2)
