@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### [github skills](https://github.com/Purity-Inn/skills-introduction-to--github)
 
-### [github skills](https://github.com/Purity-Inn/skills-introduction-to--github)
+### [skills-copilot-codespaces-vscod](https://github.com/Purity-Inn/skills-copilot-codespaces-vscode)
 
 ## 📫 How to reach me
 
