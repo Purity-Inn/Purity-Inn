@@ -18,7 +18,7 @@ A brief description of what this project does and its main features.
 ### [Purity-Inn](https://github.com/Purity-Inn/Purity-Inn)
 A brief description of what this project does and its main features.
 
-### [Project Name 3](https://github.com/Purity-Inn/project-name-3)
+### [gihub skills](https://github.com/Purity-Inn/skills-introduction-to--github)
 A brief description of what this project does and its main features.
 
 ## 📫 How to reach me
