@@ -24,8 +24,7 @@ A brief description of what this project does and its main features.
 ## 📫 How to reach me
 
 - **Email:** [innkeshry@gmail.com](mailto:innkeshry@gmail.com)
-- **LinkedIn:** [Purity-Inn](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@PurityInn](https://twitter.com/your-twitter-handle)
+- **LinkedIn:** [Purity-Inn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
 
 Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from others!
 
