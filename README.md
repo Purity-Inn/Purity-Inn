@@ -13,17 +13,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📁 Projects
 
 ### [Class-group-project1](https://github.com/Purity-Inn/Class-group-project1)
-A brief description of what this project does and its main features.
 
 ### [Purity-Inn](https://github.com/Purity-Inn/Purity-Inn)
-A brief description of what this project does and its main features.
 
-### [gihub skills](https://github.com/Purity-Inn/skills-introduction-to--github)
-A brief description of what this project does and its main features.
+### [github skills](https://github.com/Purity-Inn/skills-introduction-to--github)
+
+### [github skills](https://github.com/Purity-Inn/skills-introduction-to--github)
 
 ## 📫 How to reach me
 
 - **Email:** [innkeshry@gmail.com](mailto:innkeshry@gmail.com)
+- **Email:** [kpurity984](mailto:kpurity984@gmail.com)
 - **LinkedIn:** [Purity-Inn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
 
 Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from others!
