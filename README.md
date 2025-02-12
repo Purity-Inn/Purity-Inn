@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 - **Cloud:** AWS, Azure, Google Cloud Platform
 
-## 📁 Projects
+## 📁These are some of my Projects
 
 ### [Class-group-project1](https://github.com/Purity-Inn/Class-group-project1)
 
