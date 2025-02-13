@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Email:** [innkeshry@gmail.com](mailto:innkeshry@gmail.com)
 - **Email:** [kpurity984](mailto:kpurity984@gmail.com)
 - **LinkedIn:** [Purity-Inn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
-- **whatsapp:** [whatsapp](0748263695)
+
 Feel free to check out my repositories and contribute to any projects that interest you. I'm always open to collaboration and learning from others!
 
 Thanks for visiting my profile!
