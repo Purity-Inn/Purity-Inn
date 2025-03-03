@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Languages:** HTML, CSS, JavaScript, Python, C++
+- **Databases:** MySQL
+- **DevOps:** GitHub Actions
+- **Cloud:** Azure, Google Cloud Platform
 
 ## 📁These are some of my Projects
 
