@@ -1,4 +1,4 @@
-# Hi there, I'm Purity-Inn! 👋
+# Hi there, I'm Purity-Inn! 
 
 ## 👩‍💻 About Me
 I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more. I love building engaging user interfaces and meaningful web applications. Currently, I'm exploring new technologies and expanding my portfolio with creative, impactful projects.
@@ -25,13 +25,13 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 ## 📫 Let’s Connect!
 
 - [Portfolio](#)
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
+
 <!-- Add your actual links here -->
 
 ---
 
-> “Code is like art—creative, expressive, and always evolving.” 🎨
+> “Code is like art—creative, expressive, and always evolving.” 
 
 
 
