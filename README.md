@@ -7,13 +7,6 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 - 🧑‍💻 Always learning and experimenting.
 - ✨ Open to collaboration and new opportunities!
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-<!-- Add more badges as needed -->
-
 ## 🌟 Featured Projects
 
 - **Admin Dashboard** – Modern and responsive admin panel.
@@ -36,11 +29,9 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 # 🚀 Project Title
 
 Welcome to your project!  
-This README includes language and framework badges (including Motoko and animated badges), setup instructions, and contribution guidelines.
-
 ---
 
-## 🏷️ Badges
+## 🏷️ Tech Stack
 
 <!-- Language & Framework Badges -->
 
