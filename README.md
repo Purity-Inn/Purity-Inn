@@ -52,16 +52,7 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 ---
 
 > “Code is like art—creative, expressive, and always evolving.” 
-## 📦 Table of Contents
 
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 
 
