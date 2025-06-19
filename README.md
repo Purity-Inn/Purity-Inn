@@ -7,30 +7,6 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 - 🧑‍💻 Always learning and experimenting.
 - ✨ Open to collaboration and new opportunities!
 
-## 🌟 Featured Projects
-
-- **Admin Dashboard** – Modern and responsive admin panel.
-- **Task Manager API** – API for managing tasks efficiently.
-- **Portfolio** – My personal portfolio website.
-- **Healthy Living Website** – Promoting wellness and healthy living.
-- **Simple Chat Bot** – Interactive chatbot for various use cases.
-
-## 📫 Let’s Connect!
-
-- [Portfolio](#)
-- [LinkedIn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
-
-<!-- Add your actual links here -->
-
----
-
-> “Code is like art—creative, expressive, and always evolving.” 
-
-# 🚀 Project Title
-
-Welcome to your project!  
----
-
 ## 🏷️ Tech Stack
 
 <!-- Language & Framework Badges -->
@@ -58,7 +34,24 @@ Welcome to your project!
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" title="Keep Coding!" />
 
 ---
+## 🌟 Featured Projects
 
+- **Admin Dashboard** – Modern and responsive admin panel.
+- **Task Manager API** – API for managing tasks efficiently.
+- **Portfolio** – My personal portfolio website.
+- **Healthy Living Website** – Promoting wellness and healthy living.
+- **Simple Chat Bot** – Interactive chatbot for various use cases.
+
+## 📫 Let’s Connect!
+
+- [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/purity-kerubo-b48851311/)
+
+<!-- Add your actual links here -->
+
+---
+
+> “Code is like art—creative, expressive, and always evolving.” 
 ## 📦 Table of Contents
 
 - [About](#about)
