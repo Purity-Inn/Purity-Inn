@@ -24,11 +24,7 @@ I'm a passionate developer skilled in **JavaScript, HTML, CSS, React**, and more
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-44.3%25-blue?style=flat-square&logo=c%2b%2b)       
-![CMake](https://img.shields.io/badge/CMake-36.3%25-blueviolet?style=flat-square&logo=cmake) 
-![Dart](https://img.shields.io/badge/Dart-11.0%25-02569B?style=flat-square&logo=dart)        
-![Swift](https://img.shields.io/badge/Swift-3.3%25-FA7343?style=flat-square&logo=swift)      
-![C](https://img.shields.io/badge/C-2.6%25-A8B9CC?style=flat-square&logo=c) 
+
 
 
 <!-- Animated badge (SVG typing animation) -->
