@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 ---
 
-## 🛠️ My Animated Tech Toolbox
+## 🛠️ My Tech Toolbox
 
 <div align="center">
 
@@ -34,9 +34,9 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 ---
 
-### 💡 Bonus Typing Animation
+### 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=I+code+beautiful+UIs.;I+design+backend+APIs.;I+build+with+Rust%2C+Motoko%2C+React.;Always+learning.+Always+creating." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=I+code+beautiful+UIs.;I+design+backend+APIs.;Always+learning.+Always+creating." alt="Typing SVG" />
 
 ---
 
