@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm **Purity-Inn** — Developer. Creator. Dreamer.
+# Hi, I'm **Purity-Inn** — Developer. Creator. Dreamer.
 <div align="center">
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding girl gif" />
