@@ -1,23 +1,3 @@
-<div style="
-  position: absolute;
-  top: 30px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 9999;
-  text-align: center;
-  color: white;
-  font-family: 'Segoe UI', sans-serif;
-  background: rgba(0, 0, 0, 0.3);
-  padding: 20px 30px;
-  border-radius: 16px;
-  backdrop-filter: blur(6px);
-">
-  <h1 style="font-size: 2.5em; margin: 0;">👋 Hi, I'm <strong>Purity Kerubo</strong></h1>
-  <p style="font-size: 1.2em; margin: 10px 0 0;">
-    Passionate Full-Stack Developer · React & Node.js · Web3 Explorer 🌐 · Always Learning 🌱
-  </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD000&center=true&vCenter=true&width=600&lines=Building+with+JavaScript%2C+React%2C+MongoDB...;Exploring+Rust%2C+Motoko+%26+Solidity!;Always+curious%2C+always+creating!+💡" alt="Typing animation" style="margin-top: 15px; max-width: 100%;" />
-</div>
 
 # 👋 Hi, I'm **Purity-Inn** — Developer. Creator. Dreamer.
 <div align="center">
