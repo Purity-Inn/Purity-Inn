@@ -38,20 +38,6 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=I+code+beautiful+UIs.;I+design+backend+APIs.;Always+learning.+Always+creating." alt="Typing SVG" />
 
----
-
-## ✨ Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎛️ **Admin Dashboard** | A sleek and responsive dashboard to manage users, tasks, and analytics. | React, Tailwind, Node.js |
-| ✅ **Task Manager API** | A secure and RESTful backend for task CRUD operations. | Express, MongoDB, JWT |
-| 🌐 **Personal Portfolio** | My creative portfolio to showcase who I am. | HTML, CSS, JavaScript |
-| 🧘 **Healthy Living Site** | Inspires wellness through tips and community resources. | Vue.js, Firebase |
-| 💬 **Simple Chatbot** | Lightweight chatbot for support and real-time responses. | Node.js, Socket.io |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
