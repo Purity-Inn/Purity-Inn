@@ -1,5 +1,13 @@
 
 # 👋 Hi, I'm **Purity-Inn** — Developer. Creator. Dreamer.
+<div align="center">
+
+# 👩‍💻 Purity Kerubo  
+### *Passionate Full-Stack Developer · React & Node.js · Web3 Explorer 🌐 · Always Learning 🌱*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Purity+Kerubo!;Full-stack+developer+%7C+UI+Designer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Always+curious,+always+creating!+💡" alt="Typing animation" />
+
+</div>
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding girl gif" />
 
