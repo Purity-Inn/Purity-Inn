@@ -49,21 +49,6 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 </div>
 
----
-
-## 🚀 Featured Repositories
-
-<a href="https://github.com/Purity-Inn/admin-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=admin-dashboard&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/taskmanager-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=taskmanager-api&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/simple-chat-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=simple-chat-bot&theme=radical" />
-</a>
-
----
 
 ## 📫 Let's Connect
 
