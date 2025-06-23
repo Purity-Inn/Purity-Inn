@@ -1,37 +1,4 @@
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Purity-Inn&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purity-Inn&theme=radical&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purity-Inn&layout=compact&theme=radical&hide_border=true" width="49%" />
-
-</div>
-
-## 🚀 Featured Repositories
-
-<a href="https://github.com/Purity-Inn/admin-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=admin-dashboard&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/taskmanager-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=taskmanager-api&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/simple-chat-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=simple-chat-bot&theme=radical" />
-</a>
-
-## 🚀 Featured Repositories
-
-<a href="https://github.com/Purity-Inn/admin-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=admin-dashboard&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/taskmanager-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=taskmanager-api&theme=radical" />
-</a>
-<a href="https://github.com/Purity-Inn/simple-chat-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Purity-Inn&repo=simple-chat-bot&theme=radical" />
-</a>
 # 👋 Hi, I'm **Purity-Inn** — Developer. Creator. Dreamer.
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding girl gif" />
