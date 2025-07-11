@@ -53,7 +53,7 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 ## 📫 Let's Connect
 
-- 🌍 [Portfolio](#)  
+- 🌍 [Portfolio](https://purity-inn.github.io/portfolio-site-/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/purity-kerubo-b48851311/)  
 - 📨 Email: kpurity984@gmail.com
 
