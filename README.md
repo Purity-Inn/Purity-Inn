@@ -8,7 +8,7 @@
 
 I'm a passionate full-stack developer with a flair for crafting **beautiful UIs**, **scalable APIs**, and **interactive digital experiences**. I blend creativity with code to bring ideas to life — whether it's a chatbot to help youth, an admin dashboard for productivity, or a personal portfolio to tell my story.
 
-- 🎯 Currently sharpening my skills in **backend architecture**, **blockchain dev**, and **native app dev**
+- Currently sharpening my skills in **backend architecture**, **blockchain dev**, and **native app dev**
 - 🎨 I'm also an artist at heart — I love drawing, skating, and dancing!
 - 🤝 Open to collaborations, mentorships, and creative tech projects
 
@@ -18,10 +18,10 @@ I'm a passionate full-stack developer with a flair for crafting **beautiful UIs*
 
 <div align="center">
 
-🎨 **Frontend Magic**  
+ **Frontend Magic**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,svelte,tailwind" height="50" style="margin-right: 10px;" />
 
-🧠 **Backend Power**  
+ **Backend Power**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,api" height="50" style="margin-right: 10px;" />
 
 💻 **Languages & Tools**  
